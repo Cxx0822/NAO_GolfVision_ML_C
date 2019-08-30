@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_2</folder>
+	<filename>28.jpg</filename>
+	<path>D:\NAO\visual_cxx\img_2\28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>127</ymin>
+			<xmax>226</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
