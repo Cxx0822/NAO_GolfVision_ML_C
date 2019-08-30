@@ -10,7 +10,7 @@ int main()
 	train.result_test("img_test/*.jpg");
 	end = clock();
 	double endtime = (double)(end - start) / CLOCKS_PER_SEC;
-	cout << "Total time:" << endtime << endl;		//sÎªµ¥Î»
+	cout << "Total time:" << endtime << endl;		
 	
 	return 0;
 }
